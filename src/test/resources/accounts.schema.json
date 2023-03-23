@@ -30,7 +30,7 @@
       },
       "currency": {
         "type": "string",
-        "enum": ["RUB", "USB"]
+        "enum": ["RUB", "USB."]
       }
     }
   }
